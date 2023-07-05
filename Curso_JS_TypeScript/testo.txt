@@ -1,0 +1,20 @@
+Geral
+
+"Lets" = saida de inforamções, armazena as inforamçoes.
+"Const" = constates, informaçoes que não mudam.
+
+Aula 8 serie 2 video 16
+
+
+icone "+" pode ser usado para unir as informações dentro do dos parentes no log 
+
+caso utilize crases `` dentro do log, utilizar o formato " `tem ${altura} de altura e seu IMC é de ${imc}` " talvez o modo mais atual.
+
+As chaves e o sifrão selecionas as consts setadas.
+
+
+"Lets" = saida de inforamções, armazena as inforamçoes.
+"Const" = constates, informaçoes que não mudam.
+
+
+Caso eu utilize duas "Var" a ultima sepre sera redeclarada, com isso as anteriores serão anuladas.
